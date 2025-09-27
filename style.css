@@ -50,8 +50,42 @@ body {
 
 #produtos {
     background-color: #ef9b40;
+    color: #ffffff;
+    padding-bottom: 15px;
+} 
+
+#produtos h3 {
+    font-size: 25px;
+}
+
+#produtos h4 { 
+    font-size: 20px;
+}
+
+#produtos p {
+    width: 480px;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    line-height: 24px;
 }
 
 #produtos img {
     width: 400px;
+}
+
+.espacamento-produtos {
+    padding-top: 25px;
+}
+
+#contato {
+    margin-bottom: 30px;
+}
+
+.espacamento-contato {
+    margin-top: 15px;
+}
+
+#contato span {
+    font-weight: bold;
 }
